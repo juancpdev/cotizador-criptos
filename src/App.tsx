@@ -31,10 +31,9 @@ function App() {
         </div>
       </div>
 
-      <footer>
-        <p>
-          Created By <a target="_blank" rel="noopener noreferrer" href="https://www.github.com/juancpdev">@jpdev</a>
-        </p>
+      <footer className="footer">
+        Created by
+        <a className=" footer_a" target="_blank" href="https://github.com/juancpdev"> @Jpdev</a>
       </footer>
     </div>
   )

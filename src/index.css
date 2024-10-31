@@ -265,3 +265,20 @@ footer p {
     }
   }
 
+  .footer {
+    background-color: #1e293b;  /* bg-slate-800 */
+    color: #9ca3af;            /* text-gray-400 */
+    text-align: center;
+    padding: 2.5rem 0;         /* py-10 */
+}
+
+.footer a {
+    font-weight: 700;          /* font-bold */
+    color: #ffffff;            /* text-white */
+    transition: all 0.3s;      /* transition-all */
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #fdba74;            /* hover:text-orange-300 */
+}
